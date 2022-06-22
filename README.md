@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6??style=flat&logo=TypeScript&logoColor=white">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6??style=flat&logo=TypeScript&logoColor=white)
+
+
+[![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgjung9)](https://github.com/jgjung9/github-readme-stats)
 <!--
 **jgjung9/jgjung9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
