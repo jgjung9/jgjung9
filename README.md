@@ -15,12 +15,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
-![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
-![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
-
 
 <!--
 **jgjung9/jgjung9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
